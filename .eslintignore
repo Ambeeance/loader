@@ -1,3 +1,6 @@
 package.json
 package-lock.json
 yarn.lock
+*.md
+.eslintrc.json
+.prettierignore

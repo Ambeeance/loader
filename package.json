@@ -16,7 +16,8 @@
   },
   "lint-staged": {
     "*": [
-      "eslint --quiet --fix"
+      "eslint --quiet --fix",
+      "prettier --write"
     ]
   },
   "devDependencies": {
